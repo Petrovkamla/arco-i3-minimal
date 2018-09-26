@@ -285,8 +285,8 @@ lightdm
 
 
 #lx-applications
-lxappearance-obconf-gtk3
-#lxmenu-data
+lxappearance-gtk3
+#lxappearance-obconf-gtk3
 lxrandr
 
 #openbox
