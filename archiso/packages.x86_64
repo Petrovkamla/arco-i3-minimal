@@ -222,7 +222,7 @@ poppler-qt5
 #chromium
 compton
 #darktable
-#deadbeef
+deadbeef
 dmenu
 #evolution
 feh
@@ -269,7 +269,7 @@ ttf-droid
 #ttf-inconsolata
 #ttf-liberation
 ttf-roboto
-ttf-ubuntu-font-family
+#ttf-ubuntu-font-family
 
 #i3wm
 i3status
@@ -285,9 +285,9 @@ lightdm
 
 
 #lx-applications
-#lxappearance-obconf
+lxappearance-obconf-gtk3
 #lxmenu-data
-#lxrandr
+lxrandr
 
 #openbox
 #gtk2-perl
