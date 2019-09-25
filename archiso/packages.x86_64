@@ -218,16 +218,16 @@ poppler-qt5
 
 #applications
 #atom
-#chromium
+chromium
 compton
 #darktable
-deadbeef
+#deadbeef
 dmenu
 #evolution
 feh
-#firefox
-#flashplugin
-#galculator
+firefox
+flashplugin
+galculator
 geany
 #gimp
 gmrun
@@ -240,7 +240,7 @@ meld
 nitrogen
 numlockx
 #pragha
-#qbittorrent
+qbittorrent
 scrot
 #simplescreenrecorder
 termite
@@ -260,7 +260,7 @@ adobe-source-sans-pro-fonts
 awesome-terminal-fonts
 #cantarell-fonts
 noto-fonts
-#terminus-font
+terminus-font
 #ttf-bitstream-vera
 ttf-dejavu
 ttf-droid
@@ -269,14 +269,14 @@ ttf-droid
 ttf-roboto
 #ttf-ubuntu-font-family
 
-#i3wm
+i3wm
 i3status
 i3blocks
 
 #icons
 #arc-icon-theme
 #gnome-icon-theme
-#papirus-icon-theme
+papirus-icon-theme
 
 #lightdm
 accountsservice
@@ -302,7 +302,7 @@ arc-gtk-theme
 kvantum-qt5
 kvantum-theme-arc
 
-#utilities
+utilities
 arandr
 #asciinema
 bash-completion
@@ -329,7 +329,7 @@ gparted
 #gtop
 hardinfo
 #hddtemp
-#htop
+htop
 #hunspell
 #hunspell-en
 #hyphen
@@ -363,7 +363,7 @@ rofi
 #simple-scan
 #shotwell
 #speedtest-cli
-#timeshift
+timeshift
 #tlp
 tree
 #ufw
@@ -390,8 +390,8 @@ zenity
 #############################
 
 #applications
-vivaldi
-vivaldi-codecs-ffmpeg-extra-bin
+#vivaldi
+#vivaldi-codecs-ffmpeg-extra-bin
 
 #cursors
 #breeze-cursors-lh
@@ -404,7 +404,7 @@ xcursor-breeze
 #ttf-font-awesome
 #ttf-ms-fonts
 
-#i3
+i3
 i3-gaps-next-git
 
 #icons
@@ -452,7 +452,7 @@ pamac-aur
 #pulseaudio-equalizer-ladspa
 python-pywal
 #screenkey-git
-sublime-text-dev
+#sublime-text-dev
 #temps
 the_platinum_searcher-bin
 #tmux
@@ -568,7 +568,7 @@ xfwm4
 
 
 #xfce4-goodies group content
-#mousepad
+mousepad
 #orage
 #parole
 ristretto
